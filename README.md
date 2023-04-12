@@ -17,13 +17,17 @@ Computer Graphics Collections
 * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/main/docs/SPIR-V.rst)
 * [Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
-## C++ related
+
+## Programming
+
+  * Memory
+    * Efficient Use of GPU Memory in Modern Games - Adam Sawicki, [link](https://gpuopen.com/videos/efficient-use-of-gpu-memory-digital-dragons/), [video](https://www.youtube.com/watch?v=ML0YC77bSOc)
 
   * Task Graph
     * [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
     * [Taskflow](https://taskflow.github.io/)
 
 
-
+  * Memory
 
 ## Open Courses / YouTube Tutorials
