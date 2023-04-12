@@ -16,7 +16,7 @@ Computer Graphics Collections
 ### Vulkan
 * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/main/docs/SPIR-V.rst)
-
+* [Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
 ## C++ related
 
   * Task Graph
