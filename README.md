@@ -12,6 +12,11 @@ Computer Graphics Collections
 
 ## Shadow
 
+## Hardware APIs
+### Vulkan
+* [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
+* [HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/main/docs/SPIR-V.rst)
+
 ## C++ related
 
   * Task Graph
